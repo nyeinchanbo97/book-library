@@ -1,0 +1,60 @@
+[
+ 
+  {
+    "id": 1,
+    "name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "description": "A fantasy novel that follows the journey of Bilbo Baggins as he helps a group of dwarves reclaim their homeland.",
+    "slug": "the-hobbit",
+    "image" : "https://pyxis.nymag.com/v1/imgs/209/120/58310bd0c4920145a68972ef460705393c-17-the-hobbit.2x.h473.w710.jpg"
+  },
+  {
+    "id": 2,
+    "name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "description": "A powerful story about racial injustice and moral growth in the American South.",
+    "slug": "to-kill-a-mockingbird",
+    "image" : "https://www.telegraph.co.uk/content/dam/news/2018/09/08/TELEMMGLPICT000173563791_1_trans_NvBQzQNjv4BqqJmO2fTnKlKM9Wq_xXiqzL26_3oDqRyOf0qYm9Qf9Gs.jpeg?imwidth=680"
+  },
+ 
+  {
+    "id": 3,
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "description": "The first book in the magical Harry Potter series.",
+    "slug": "harry-potter-and-the-sorcerers-stone",
+    "image" : "https://imageservice.disco.peacocktv.com/uuid/e80c1e3c-2d93-3d94-8f5c-2c6e66e8cc09/TITLE_ART_16_9?language=eng&territory=US&proposition=NBCUOTT&version=31c5895a-8d32-33bf-a5f3-8890a4683d90"
+  },
+  {
+    "id": 4,
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "description": "An exploration of the American Dream through the life of Jay Gatsby.",
+    "slug": "the-great-gatsby",
+    "image" : "https://ntvb.tmsimg.com/assets/p9287195_v_h10_ah.jpg?w=1280&h=720"
+  },
+  {
+    "id": 5,
+    "name": "1984",
+    "author": "George Orwell",
+    "description": "A dystopian novel set in a totalitarian society where truth is manipulated and freedom is restricted.",
+    "slug": "1984",
+    "image" : "https://static.toiimg.com/thumb/msid-101257351,width-1070,height-580,imgsize-71870,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+  },
+  {
+    "id": 6,
+    "name": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "description": "A classic novel about the struggles of a teenage boy named Holden Caulfield.",
+    "slug": "the-catcher-in-the-rye",
+    "image" : "https://www.thoughtco.com/thmb/RMO0HbKRcnexZhX5Jj_Cg-Pur5A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/CiTR_overview-e839cbdfec7443398b1520611287323d.jpg"
+  },
+  {
+    "id": 7,
+    "name": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "description": "A mystery thriller that follows Harvard symbologist Robert Langdon as he investigates a murder in the Louvre Museum.",
+    "slug": "the-da-vinci-code",
+    "image" : "https://static1.srcdn.com/wordpress/wp-content/uploads/2020/12/Tom-Hanks-The-Da-Vinci-Code-real-story-1-1.jpg"
+  }
+]
